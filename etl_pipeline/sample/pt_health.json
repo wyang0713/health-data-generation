@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MO48527C",
+    "birthdate": "1983-07-10",
+    "gender": "X",
+    "city": "Lake Thomasbury",
+    "state": "Texas",
+    "height": 60,
+    "start_weight": 182,
+    "start_systolic": 138,
+    "start_diastolic": 102,
+    "create_date": "2014-01-01",
+    "updated_date": "2014-01-01",
+    "health_records": [
+      {
+        "heart_rate": 74,
+        "weight": 182.3,
+        "systolic": 152,
+        "diastolic": 61,
+        "record_date": "2014-01-01"
+      },
+      {
+        "heart_rate": 67,
+        "weight": 183.9,
+        "systolic": 126,
+        "diastolic": 75,
+        "record_date": "2014-01-02"
+      },
+      {
+        "heart_rate": 93,
+        "weight": 185.1,
+        "systolic": 166,
+        "diastolic": 64,
+        "record_date": "2014-01-03"
+      }
+    ]
+   }
+]

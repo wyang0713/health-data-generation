@@ -1,0 +1,15 @@
+__pycache__/
+
+# Exclude all JSON and CSV files by default
+json_data/
+patient_data/
+health_data/
+*.json
+*.csv
+
+# But include the sample folder and its contents
+!sample/
+!sample/**
+!sample/*.json
+!sample/*.csv
+
